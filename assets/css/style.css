@@ -110,8 +110,8 @@ a:hover {
 }
 
 .hero-section img {
-  max-width: 70%;
-  height: 60vh;
+  max-width: auto;
+  height: auto;
   animation: slideInRight 0.8s ease;
   transition: var(--transition);
   -webkit-animation: slideInRight 0.8s ease;
